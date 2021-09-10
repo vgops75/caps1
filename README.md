@@ -1,5 +1,7 @@
 # TypeForm based Flask Application for Quizzes and Questionnaires
-### This repository only contains title page and name
+####  This repository only contains title page and name
+
+##### Heroku Website Info: https://maxbitz.herokuapp.com/
 
 First make a Flask based package. Usually done using __init__.py in a sub-folder of the package (folder). The package (folder) also consists of a file 'package_name.py'.
 
